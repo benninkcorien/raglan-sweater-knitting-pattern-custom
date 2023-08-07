@@ -1,0 +1,108 @@
+One cm is 1.25 stitches
+One sticth is 0.8 cm
+One row is 0.625 cm
+One cm is 1.6 row
+Total meters of yarn needed: 983.32 meters, this is 1075.37 yards, this is 14.047488 balls
+
+
+## NECK LINE ## 
+
+Cast on 44 neck stitches, place markers so it is divided as 2, m, 9, m, 22, m, 9, m, 2  
+KNIT THIS BACK AND FORTH on a straight needle    
+9 is the sleeve part, so add rib there if you want it
+Raglan Increases:  increases before and after each  marker  
+a+2  b+2  c+2 b+2 a+2
+R1 (RS): k1, M1, [ k to stitch before marker, kfb, sm, kfb ] 4 times, k to final 2 stitches, M1, k1
+R2 (WS): purl all stitches
+_ _ _ _ _ _ _ _
+
+Work rows 1 and 2, 3 times (6 rows total) until you have 74 stitches
+(8 front, 28 back, and 15, for each sleeve) (8, 15, 28, 15, 8)
+_ _ _ _ _ _
+
+R7: k7, kfb, sm, kfb, k13, kfb, sm, kfb, k26, kfb, sm, kfb, k13, kfb, sm, kfb, k7, 
+This is 8 extra.
+
+Turn your work, cast on 8, place a  marker - this is the center of the front -  cast on 8.
+JOIN for knitting in the round. 
+The center front marker is now the start of your rounds.
+You now have 98 stitches in total (17,  17, 30, 17 17) 
+
+
+## UPPER  BODY ## 
+Work down to the armpits, raglan increases on every second round:
+You start with 98 
+arm back arm front (17, 30, 17, 34) 
+And you need to get to chest and arms combined 199
+So you need to add 101 stitches
+
+You increase 8 stitches every other row, so you need to add 12.625 increases 
+this is a total of 25.25 rows added
+and for the calculated raglan length from neck to chest, you need 26 rows  
+(so pick a number, input will ask for an int, if you press enter it uses the first value given here) 
+
+
+
+
+## UPPER BODY CONTINUED to ARMPITS
+You start with 98 
+arm back arm front
+(17, 30, 17, 34) 
+
+R8(RS): k all stitches 
+R9(RS): [ k to 1 st before marker, kfb, sm, kfb ] 4 times, k to center marker, sm 
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+Work rounds 8 and 9, 13 times ( 25.25 rounds total). 
+Work round 8 one more time (= knit all). 
+
+# every other row you add 8 stitches
+stitches added = 104
+front total = 60
+backtotal = 56
+arm left plus right total = 86 -- arm total goal = 40
+You now have  202 stitches in total  -- 199 (this should match)
+
+Try on your sweater, leave a 8 cm gap under each arm (you'll add 10 stitches there). 
+
+
+FINISH THE BODY and separate the sleeves
+Knit a round and put the sleeves on a holder.
+Add 10 stitches under each arm and connect in the round to finish the body.
+
+You start with : 119
+You need to get to waist at 102 over 24.0 cm. 
+Add 17 over  38.4 rows.
+Then add 18 over 38.4 rows.
+
+83 total rows (or until the thing is long enough)
+Then add ribbing WITH A SMALLER GAUGE NEEDLE.
+
+
+SLEEVES - knit two at a time.
+43.0 on each sleeve 
+Pick up arm stitches, start halfway the underarm stitches you added. 
+ 
+you now have 53.0 stitches which is 42 cm
+Place a marker, join and begin working in the round.
+You will knit at total of 83 rows
+
+You want to go from 53.0 to 26 over 83 rows with hopefully the uppearm at 32  stitches (this is NOT written into the pattern since it's usually kinda right if you decrease at even intervals)
+You need to decrease 27.0 stitches over 83 rows
+and you decrease 2 per decrease row (on each side of the marker)
+so there are 15 decrease rows
+(really 13.5 ) so fix the missing stitches somewhere if this is not a nice whole number
+
+
+on row 5, 10, 16, 21, 26, 31, 36, 42, 47, 52, 57, 62, 67, 73, 78 decrease"
+ _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 
+
+Decrease once stitch somehwere in the middle if you have an odd number..
+Try the sweater on to test your sleeve length, then finish the cuff
+SMALLER GAUGE 
+Work k1p1 rib for 2.8cm. Bind off.
+
+NECK
+Pick up all stitches WITH THE SMALLER GAUGE NEEDLE, 
+knit 2x2 rib for 6 rows
