@@ -41,3 +41,6 @@ Or comment that out and use the inputs
 
 Knit 10 cm, unravel and measure in cm how much yarn you used to do that. This is used to calculate the total needed.
 (Tested for accuracy with 1 sweater. This script returns slightly more than used.)
+
+## Keep track of rows
+The pattern also contains _ _ _ placeholders so you can keep track of how many rows you've knit.
