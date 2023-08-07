@@ -98,8 +98,7 @@ KNIT THIS BACK AND FORTH on a straight needle
 Raglan Increases:  increases before and after each  marker  
 a+2  b+2  c+2 b+2 a+2
 R1 (RS): k1, M1, [ k to stitch before marker, kfb, sm, kfb ] 4 times, k to final 2 stitches, M1, k1
-R2 (WS): purl all stitches
-_ _ _ _ _ _ _ _
+R2 (WS): purl all stitches 
 
 Work rows 1 and 2, 3 times (6 rows total) until you have {(necka*2 + 12) + (neckb *2 +12) + neckc + 6 } stitches
 ({necka + 6} front, {neckc + 6} back, and {neckb + 6}, for each sleeve) ({necka + 6}, {neckb + 6}, {neckc + 6}, {neckb + 6}, {necka + 6})
@@ -122,11 +121,9 @@ chestandarmsgoal = chest_stitches + upper_arm_stitches + upper_arm_stitches
 startupperbodycount = (joinedfront + joinedback) + (joinedarm * 2)
 
 part2 = f"""
-## UPPER  BODY ## 
+## UPPER  BODY  INFO ## 
 Work down to the armpits, raglan increases on every second round:
-You start with {startupperbodycount} 
-arm back arm front ({joinedarm}, {joinedback}, {joinedarm}, {joinedfront}) 
-And you need to get to chest and arms combined {chestandarmsgoal}
+You start with {startupperbodycount} and you need to get to chest and arms combined {chestandarmsgoal}
 So you need to add {chestandarmsgoal - startupperbodycount} stitches
 
 You increase 8 stitches every other row, so you need to add {(chestandarmsgoal - startupperbodycount)/8} increases 
@@ -155,9 +152,7 @@ armstotal = larmtotal + rarmtotal
 part3 = f"""
 
 ## UPPER BODY CONTINUED to ARMPITS
-You start with {startupperbodycount} 
-arm back arm front
-({joinedarm}, {joinedback}, {joinedarm}, {joinedfront}) 
+You start with {startupperbodycount} arm back arm front ({joinedarm}, {joinedback}, {joinedarm}, {joinedfront})  
 
 R8(RS): k all stitches 
 R9(RS): [ k to 1 st before marker, kfb, sm, kfb ] 4 times, k to center marker, sm 
