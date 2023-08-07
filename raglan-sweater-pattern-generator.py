@@ -4,6 +4,8 @@ import math
 
 # stitch_gauge = float(input("Enter stitch gauge (stitches for 10 cm): "))
 # row_gauge = float(input("Enter row gauge (rows for 10 cm): "))
+# how much yarn in cm did you use for 1 row of 10cm wide (unravel and measure)?
+# 10cmknitishowmuchyarn = float(input("Enter row gauge (rows for 10 cm): "))
 # chestcircumf = float(input("Enter chest circumference in cm: "))
 # sleevelength = float(input("Enter sleeve length in cm: "))
 # cuff = float(input("Enter cuff circumference in cm: "))
@@ -19,6 +21,8 @@ import math
 measurements = {
     "stitch_gauge": 12.5,
     "row_gauge": 16.0,
+    "10cmknitishowmuchyarn": 42.0,
+    "metersperballofyarn": 70,
     "chestcircumf": 95.0,
     "sleevelength": 52.0,
     "cuff": 21.0,
@@ -35,6 +39,8 @@ measurements = {
 stitch_gauge = measurements["stitch_gauge"] / 10
 # How many rows is 10 cm
 row_gauge = measurements["row_gauge"] / 10
+# How much yarn do you need to knit 10cm wide (knit, unravel, measure)
+howmuchyarnfortencm = measurements["10cmknitishowmuchyarn"]
 chestcircumf = measurements["chestcircumf"]
 # sleeve length from armpit
 sleevelength = measurements["sleevelength"]
@@ -48,6 +54,7 @@ raglanlength = measurements["raglanlength"]
 waist = measurements["waist"]
 chesttowaist = measurements["chesttowaist"]
 hip = measurements["hip"]
+metersperballofyarn = measurements["metersperballofyarn"]
 
 # Calculate number of stitches/rows needed based on gauges
 chest_stitches = round(stitch_gauge * chestcircumf)
