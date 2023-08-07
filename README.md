@@ -1,5 +1,6 @@
 #  Customizable Knitting Pattern Generator for a Raglan Sweater
 A python script that generates a raglan sweater based on your measurements and gauge
+(this script is intentionally a bit of a mess, so it's easy to change things.)
 
 ## Enter measurements
 
