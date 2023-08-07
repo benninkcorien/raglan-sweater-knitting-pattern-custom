@@ -1,7 +1,21 @@
-# raglan-sweater-knitting-pattern-custom
+#  Customizable Knitting Pattern Generator for a Raglan Sweater
 A python script that generates a raglan sweater based on your measurements and gauge
 
 ## Enter measurements
+
+- stitch_gauge =  stitches for 10 cm 
+- row_gauge = rows for 10 cm 
+- 10cmknitishowmuchyarn how much yarn in cm did you use for 1 row of 10cm wide (unravel and measure) 
+- chestcircumf =  chest circumference in cm 
+- sleevelength = sleeve length in cm
+- cuff = cuff circumference in cm
+- upperarm = upper arm circumference in cm
+- crewneck = neck circumference in cm plus extra (you make it narrower at the end.. 47 default seems to work)
+- bodylength = armpit to hem length in cm
+- raglanlength = neck to armpit length in cm
+- metersperballofyarn = How many meters of yarn in 1 ball
+
+
 
 Enter your measurements in cm here:
 
